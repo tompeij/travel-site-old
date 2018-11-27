@@ -97,7 +97,7 @@
 
   }
 
-  /* Begin equal height rules. */
+  /* Begin equal height rules. */Z
 
   &--equal-height-at-medium {
     @mixin atMedium {
